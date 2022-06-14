@@ -25,7 +25,7 @@ function multiply(a, b){
 ```
 ## **Work experience:** 
 #### at the moment I have no experience, I am studying
-## **Education :** 
+## **Education :**  
 #### Altai State Institute of Culture, Faculty of Information Resources and Design;
 ### **Courses:** 
      - WDI Design School - The first portfolio
@@ -35,3 +35,4 @@ function multiply(a, b){
      - HTML,СSS, Git -  video courses on YouTube
 ## **Language:** 
 #### English level – A1 Beginner
+
