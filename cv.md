@@ -4,7 +4,7 @@
 #### Location: Russia, Altai Krai, Barnaul
 #### E-mail: pjatkova.julia@gmail.com
 #### Discord: Julia22brn
-#### Tel: +79628099895
+#### Tel: +7 962 809 98 95
 ## **About Myself:**
 #### I started my way into the IT sphere by studying the direction of web design, took several courses, mastered several programs and became interested in the code and programming itself. In the near future I want to study at RS School, change my profession and become a Junior Frontend Developer.
 ## **Skills:**
